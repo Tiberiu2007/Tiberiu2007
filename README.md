@@ -89,7 +89,6 @@ A game engine built from scratch, with a focus on modular architecture, renderin
 
 - **GitHub:** [@Tiberiu2007](https://github.com/Tiberiu2007)
 - **LinkedIn:** [Tiberiu Florin Trofim](https://www.linkedin.com/in/tiberiu-florin-trofim/)
-- **Email:** [tro.tiberiu.flo@gmail.com](mailto:tro.tiberiu.flo@gmail.com)
 
 ---
 
